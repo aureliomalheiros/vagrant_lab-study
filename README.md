@@ -3,7 +3,7 @@
 #### Projeto
 Laboratório para estudos.
 
-#### Execuçã
+#### Execução
 
 ```
 vagrant up
